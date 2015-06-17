@@ -1,2 +1,2 @@
 all:
-	echo $(build_branch)
+	echo $(BUILD_BRANCH)
