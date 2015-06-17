@@ -1,2 +1,2 @@
 all:
-	echo $(build_number)
+	echo $(BUILD_NUMBER)
