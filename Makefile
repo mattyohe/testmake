@@ -1,2 +1,2 @@
 all:
-	echo %%teamcity.build.number%%
+	echo %build.number%
