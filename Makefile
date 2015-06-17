@@ -1,2 +1,2 @@
 all:
-	echo %build.number%
+	echo $(build_number)
