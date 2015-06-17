@@ -1,2 +1,2 @@
 all:
-	echo $(BUILD_NUMBER)
+	echo $(BRANCH)
